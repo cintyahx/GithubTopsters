@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOezNmWBu+1qHRxgvuk62afANfFwCp2CMxHMjfC5JCULO1PMl/iYDDK8Py6fOzjl5cHKFt3f8yXfyuA7TeiYew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.5.0\\fluentvalidation.11.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

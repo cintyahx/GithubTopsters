@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miotto.GitHubTopsters.API", "src\Miotto.GitHubTopsters.API\Miotto.GitHubTopsters.API.csproj", "{77BA154D-0D1F-4A0E-A79E-8AC217BE877B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miotto.GitHubTopsters.Domain", "src\Miotto.GitHubTopsters.Domain\Miotto.GitHubTopsters.Domain.csproj", "{22F314E6-14CA-4593-9700-E674DD168AC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miotto.GitHubTopsters.Service", "src\Miotto.GitHubTopsters.Service\Miotto.GitHubTopsters.Service.csproj", "{364DFEE4-C482-4633-BAFB-986F476A9033}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miotto.GitHubTopsters.Util", "src\Miotto.GitHubTopsters.Util\Miotto.GitHubTopsters.Util.csproj", "{96919171-1C2C-41FE-84BE-C30134015811}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miotto.GitHubTopsters.Service.Tests", "tests\Miotto.GitHubTopsters.Service.Tests\Miotto.GitHubTopsters.Service.Tests.csproj", "{DD3D1ED1-CE3D-4B4A-9996-46540CD869B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miotto.GitHubTopsters.Domain.Tests", "tests\Miotto.GitHubTopsters.Domain.Tests\Miotto.GitHubTopsters.Domain.Tests.csproj", "{5C8FDB06-8455-486F-91A2-3D4228AAD1AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CE0F3536-6F52-4E8D-B751-B3C27BBCDE2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{34DAC9C9-E83F-4569-B318-9414BB70285C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miotto.GitHubTopsters.Gateway", "src\Miotto.GitHubTopsters.Gateway\Miotto.GitHubTopsters.Gateway.csproj", "{FB3A3A14-050B-416F-9BA6-F8C8DBDB800C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miotto.GitHubTopsters.Infra", "src\Miotto.GitHubTopsters.Infra\Miotto.GitHubTopsters.Infra.csproj", "{98CEB63C-697E-4885-8B46-8B5A3C37D954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BA154D-0D1F-4A0E-A79E-8AC217BE877B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BA154D-0D1F-4A0E-A79E-8AC217BE877B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BA154D-0D1F-4A0E-A79E-8AC217BE877B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BA154D-0D1F-4A0E-A79E-8AC217BE877B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F314E6-14CA-4593-9700-E674DD168AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F314E6-14CA-4593-9700-E674DD168AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F314E6-14CA-4593-9700-E674DD168AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F314E6-14CA-4593-9700-E674DD168AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364DFEE4-C482-4633-BAFB-986F476A9033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364DFEE4-C482-4633-BAFB-986F476A9033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364DFEE4-C482-4633-BAFB-986F476A9033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364DFEE4-C482-4633-BAFB-986F476A9033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96919171-1C2C-41FE-84BE-C30134015811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96919171-1C2C-41FE-84BE-C30134015811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96919171-1C2C-41FE-84BE-C30134015811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96919171-1C2C-41FE-84BE-C30134015811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3D1ED1-CE3D-4B4A-9996-46540CD869B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3D1ED1-CE3D-4B4A-9996-46540CD869B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3D1ED1-CE3D-4B4A-9996-46540CD869B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3D1ED1-CE3D-4B4A-9996-46540CD869B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8FDB06-8455-486F-91A2-3D4228AAD1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8FDB06-8455-486F-91A2-3D4228AAD1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8FDB06-8455-486F-91A2-3D4228AAD1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8FDB06-8455-486F-91A2-3D4228AAD1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3A3A14-050B-416F-9BA6-F8C8DBDB800C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3A3A14-050B-416F-9BA6-F8C8DBDB800C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3A3A14-050B-416F-9BA6-F8C8DBDB800C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3A3A14-050B-416F-9BA6-F8C8DBDB800C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CEB63C-697E-4885-8B46-8B5A3C37D954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CEB63C-697E-4885-8B46-8B5A3C37D954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CEB63C-697E-4885-8B46-8B5A3C37D954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CEB63C-697E-4885-8B46-8B5A3C37D954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77BA154D-0D1F-4A0E-A79E-8AC217BE877B} = {34DAC9C9-E83F-4569-B318-9414BB70285C}
+		{22F314E6-14CA-4593-9700-E674DD168AC9} = {34DAC9C9-E83F-4569-B318-9414BB70285C}
+		{364DFEE4-C482-4633-BAFB-986F476A9033} = {34DAC9C9-E83F-4569-B318-9414BB70285C}
+		{96919171-1C2C-41FE-84BE-C30134015811} = {34DAC9C9-E83F-4569-B318-9414BB70285C}
+		{DD3D1ED1-CE3D-4B4A-9996-46540CD869B6} = {CE0F3536-6F52-4E8D-B751-B3C27BBCDE2C}
+		{5C8FDB06-8455-486F-91A2-3D4228AAD1AB} = {CE0F3536-6F52-4E8D-B751-B3C27BBCDE2C}
+		{FB3A3A14-050B-416F-9BA6-F8C8DBDB800C} = {34DAC9C9-E83F-4569-B318-9414BB70285C}
+		{98CEB63C-697E-4885-8B46-8B5A3C37D954} = {34DAC9C9-E83F-4569-B318-9414BB70285C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE13723-4052-4BA6-B2C5-174B6BF59B3F}
+	EndGlobalSection
+EndGlobal

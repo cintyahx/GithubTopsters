@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  github-topsters-api:
+    container_name: github-topsters-api
+    depends_on:
+      - sqlserver
+    build: ./src
+    ports:
+      - 8080:80
+      - 8081:443
+    environment:
+      ASPNETCORE_ENVIRONMENT: Docker
+
+  sqlserver:
+    container_name: sqlserver
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+      - 1434:1433
+    environment:
+      ACCEPT_EULA: Y
+      SA_PASSWORD: topsters@123

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\bin\Debug\net6.0\Miotto.GitHubTopsters.Application.deps.json
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\bin\Debug\net6.0\Miotto.GitHubTopsters.Application.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\bin\Debug\net6.0\Miotto.GitHubTopsters.Application.pdb
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\bin\Debug\net6.0\Miotto.GitHubTopsters.Domain.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\bin\Debug\net6.0\Miotto.GitHubTopsters.Domain.pdb
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.csproj.CopyComplete
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\refint\Miotto.GitHubTopsters.Application.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\Miotto.GitHubTopsters.Application.pdb
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Application\obj\Debug\net6.0\ref\Miotto.GitHubTopsters.Application.dll

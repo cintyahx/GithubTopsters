@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Domain\\Miotto.GitHubTopsters.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Domain\\Miotto.GitHubTopsters.Domain.csproj",
+        "projectName": "Miotto.GitHubTopsters.Domain",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Domain\\Miotto.GitHubTopsters.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Gateway\\Miotto.GitHubTopsters.Gateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Gateway\\Miotto.GitHubTopsters.Gateway.csproj",
+        "projectName": "Miotto.GitHubTopsters.Gateway",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Gateway\\Miotto.GitHubTopsters.Gateway.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Gateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj",
+        "projectName": "Miotto.GitHubTopsters.Service",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Domain\\Miotto.GitHubTopsters.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Domain\\Miotto.GitHubTopsters.Domain.csproj"
+              },
+              "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Gateway\\Miotto.GitHubTopsters.Gateway.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Gateway\\Miotto.GitHubTopsters.Gateway.csproj"
+              },
+              "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Miotto.GitHubTopsters\\src\\Miotto.GitHubTopsters.Util\\Miotto.GitHubTopsters.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

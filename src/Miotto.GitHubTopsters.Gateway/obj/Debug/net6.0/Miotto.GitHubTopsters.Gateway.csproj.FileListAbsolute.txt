@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\bin\Debug\net6.0\Miotto.GitHubTopsters.Gateway.deps.json
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\bin\Debug\net6.0\Miotto.GitHubTopsters.Gateway.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\bin\Debug\net6.0\Miotto.GitHubTopsters.Gateway.pdb
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.AssemblyInfo.cs
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\refint\Miotto.GitHubTopsters.Gateway.dll
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\Miotto.GitHubTopsters.Gateway.pdb
+C:\Users\user\source\repos\Miotto.GitHubTopsters\src\Miotto.GitHubTopsters.Gateway\obj\Debug\net6.0\ref\Miotto.GitHubTopsters.Gateway.dll

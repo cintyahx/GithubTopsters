@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Miotto.GitHubTopsters.API.props" />
+</Project>
