@@ -31,3 +31,8 @@ Execute o arquivo [docker-compose.yml](https://github.com/cintyahx/GithubTopster
 - Utiliza valores informados para a consulta:
   - languages: `List<string>`
   - quantity: `int`
+
+
+## Obs
+- Poderia ter usado Mongodb para persistência, maaas :woman_shrugging:
+- Nem o ~camisa de tactel~ conseguiu me ajudar a resolver o erro `The remote certificate was rejected by the provided` executando tudo no container. Se rolar esse xabu, sorry guys
