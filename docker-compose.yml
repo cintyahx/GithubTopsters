@@ -1,6 +1,15 @@
-version: "3.9"
-
 services:
+  nginx:
+    build:
+      dockerfile: ./src/nginx.Dockerfile
+      context: .
+    image: nginx
+    container_name: nginx
+    ports:
+      - 80:80
+    depends_on:
+      - github-topsters-api
+
   github-topsters-api:
     container_name: github-topsters-api
     depends_on:
