@@ -16,6 +16,23 @@ namespace Miotto.GitHubTopsters.Controllers
             _service = service;
         }
 
+        [HttpGet("list-default")]
+        public async Task<IActionResult> ListDefault()
+        {
+            var searchParams = new SearchGithubDto
+            {
+                Quantity = 3,
+                Languages = new List<string> {"java"}
+            };
+
+            var result = await _service.ListReposByLanguageAsync(searchParams);
+
+            if (!result.Error)
+                return Ok(result);
+
+            return BadRequest(result);
+        }
+
         [HttpGet("list")]
         public async Task<IActionResult> List(int quantity, [FromHeader]List<string> languages)
         {

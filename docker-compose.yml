@@ -7,6 +7,8 @@ services:
     container_name: nginx
     ports:
       - 80:80
+    networks: 
+        - topnet
     depends_on:
       - github-topsters-api
 
@@ -18,14 +20,20 @@ services:
     ports:
       - 8080:80
       - 8081:443
+    networks: 
+        - topnet
     environment:
       ASPNETCORE_ENVIRONMENT: Docker
 
   sqlserver:
     container_name: sqlserver
     image: mcr.microsoft.com/mssql/server:2019-latest
-    ports:
-      - 1434:1433
     environment:
       ACCEPT_EULA: Y
       SA_PASSWORD: topsters@123
+    networks: 
+        - topnet
+
+networks: 
+    topnet:
+        driver: bridge
